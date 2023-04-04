@@ -1,4 +1,13 @@
-### Hi there 👋
+
+## PR
+
+
+- 블로그 : <https://seosangryul.github.io> ✨
+- 이메일 : <gogumach82@gmail.com>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoSangRyul&show_icons=true&theme=radical)
+
 
 <!--
 **SeoSangRyul/SeoSangRyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
