@@ -4,8 +4,8 @@
 ## PR
 
 
-- 블로그 : <https://seosangryul.github.io> ✨
-- 이메일 : <gogumach82@gmail.com>
+- 블로그 : <https://hagenti0612.github.io> ✨
+- 이메일 : <veryhotseo81@gmail.com>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagenti0612&show_icons=true&theme=radical)
