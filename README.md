@@ -8,7 +8,7 @@
 - 이메일 : <veryhotseo81@gmail.com>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagenti0612&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagenti0612&show_icons=true&theme=tokyonight)
 
 
 <!--
