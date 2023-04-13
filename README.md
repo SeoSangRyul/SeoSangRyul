@@ -10,9 +10,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagenti0612&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagenti0612&layout=compact&theme=tokyonight)
+
 
 <!--
-**SeoSangRyul/SeoSangRyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hagenti0612/hagenti0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
